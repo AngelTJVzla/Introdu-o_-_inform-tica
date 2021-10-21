@@ -1,0 +1,2 @@
+Hardware refere-se aos componentes tangíveis e físicos do computador. É tudo aquilo que você pode ver e tocar, como o CPU, placa-mãe, mouse, teclado, impressora e monitor. 
+O software deve ser carregado no hardware, para executar uma tarefa. O software funciona como a interface entre o usuário e o hardware.
